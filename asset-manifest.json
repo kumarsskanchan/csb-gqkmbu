@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "https://kumarsskanchan.github.io/csb-gqkmbu/static/css/main.fae3e0d3.chunk.css",
-    "main.js": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/main.c4e87a43.chunk.js",
-    "main.js.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/main.c4e87a43.chunk.js.map",
+    "main.js": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/main.feb85998.chunk.js",
+    "main.js.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/main.feb85998.chunk.js.map",
     "runtime-main.js": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/runtime-main.9e6144db.js",
     "runtime-main.js.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/runtime-main.9e6144db.js.map",
     "static/css/2.d22acee8.chunk.css": "https://kumarsskanchan.github.io/csb-gqkmbu/static/css/2.d22acee8.chunk.css",
-    "static/js/2.1eb7d98e.chunk.js": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/2.1eb7d98e.chunk.js",
-    "static/js/2.1eb7d98e.chunk.js.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/2.1eb7d98e.chunk.js.map",
+    "static/js/2.06cb6965.chunk.js": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/2.06cb6965.chunk.js",
+    "static/js/2.06cb6965.chunk.js.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/2.06cb6965.chunk.js.map",
     "index.html": "https://kumarsskanchan.github.io/csb-gqkmbu/index.html",
     "static/css/2.d22acee8.chunk.css.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/css/2.d22acee8.chunk.css.map",
     "static/css/main.fae3e0d3.chunk.css.map": "https://kumarsskanchan.github.io/csb-gqkmbu/static/css/main.fae3e0d3.chunk.css.map",
-    "static/js/2.1eb7d98e.chunk.js.LICENSE.txt": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/2.1eb7d98e.chunk.js.LICENSE.txt",
+    "static/js/2.06cb6965.chunk.js.LICENSE.txt": "https://kumarsskanchan.github.io/csb-gqkmbu/static/js/2.06cb6965.chunk.js.LICENSE.txt",
     "static/media/primeicons.css": "https://kumarsskanchan.github.io/csb-gqkmbu/static/media/primeicons.c6e20533.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9e6144db.js",
     "static/css/2.d22acee8.chunk.css",
-    "static/js/2.1eb7d98e.chunk.js",
+    "static/js/2.06cb6965.chunk.js",
     "static/css/main.fae3e0d3.chunk.css",
-    "static/js/main.c4e87a43.chunk.js"
+    "static/js/main.feb85998.chunk.js"
   ]
 }
